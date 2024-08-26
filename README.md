@@ -2,6 +2,7 @@
 <h3 align="center">I am DevOps Engineer, I have 3+ years of experience. I work on the management, monitoring and deployment of IT infrastructure, I am proficient with skills like Docker, Kubernetes, Cloud Computing, CI/CD Pipelines, Terrafrom, automation platforms like Ansible and DevOps in general.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiismaaili&label=Profile%20views&color=0e75b6&style=flat" alt="mehdiismaaili" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdiismaaili" alt="mehdiismaaili" /></a> </p>
 <p align="left"> <a href="https://twitter.com/@mehdi00i7" target="blank"><img src="https://img.shields.io/twitter/follow/@mehdi00i7?logo=twitter&style=for-the-badge" alt="@mehdi00i7" /></a> </p>
 
 - 🔭 I’m currently working on [Docker-Kubernetes-Project](https://github.com/mehdiismaaili/Docker-Kubernetes-Project)
